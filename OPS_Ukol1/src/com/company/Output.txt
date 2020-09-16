@@ -1,0 +1,13 @@
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Zadejte cislo nebo END
+Soucet vsech cisel je: 36
+Prumer je: 4
+Nejmensi cislo je: 1
+Nejvetsi cislo je: 8
